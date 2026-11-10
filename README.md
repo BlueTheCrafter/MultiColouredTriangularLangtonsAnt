@@ -5,7 +5,9 @@ The Langton's Ant is a two dimensional Turing Machine that creates a grid patter
 
 ## Variation of the Langton's Ant:
 **Multi-Colour**:These are also well researched, it includes including a third or fourth colours for the Langton's Ant, this could also include non-determinism by including more colours than four. 
+
 **Triangular Grid**: These are moderately researched, with each grid being in the shape of a triangle, allowing only three different directions that can be taken.
+
 There are multiple other variations including the use of third dimensional Langton's Ant, using different grids, having multiple Ants and much more.
 
 ## Project:
